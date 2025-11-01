@@ -222,6 +222,10 @@ p {
   border: 2px solid var(--clr-primary-400);
 }
 
+.form-group.success .input-group {
+  border: 2px solid var(--clr--secondary-400);
+}
+
 .form-group.error img {
   display: initial;
 }
