@@ -31,6 +31,19 @@
   src: url('/assets/fonts/poppins-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+/* CUSTOM PROPERTIES */
+:root {
+  --clr-primary-400: hsl(0, 100%, 74%) ;
+
+  --clr--secondary: hsl(154, 59%, 51%);
+
+  --clr--accent: hsl(248, 32%, 49%);
+
+  --clr-neutral-100: #fff;
+  --clr-neutral-200: hsl(246, 25%, 77%);
+  --clr-neutral-400: hsl(249, 10%, 26%) ;
+}
+
 /* RESET STYLES */
 /* Box sizing rules */
 *,
